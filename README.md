@@ -15,7 +15,7 @@ algum erro, quero ser capaz de atualizar/remover esse dado.
 
 # Modelo Relacional
 
-![Modelo Relacional](./images/modelo-relacional.jpg)
+![Modelo Relacional](./images/MER.jpg)
 
 # UML
 
